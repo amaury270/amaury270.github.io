@@ -1,0 +1,29 @@
+body{
+  background: rgb(75,45,99);
+  color: white;
+  font-size: 33px;
+  font-family: Deja vu sans;
+}
+h1{
+  font-family: Forte;
+  color: yellow;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: arial;
+  color: pink;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
+#oui{background: blue;
+  color: white;
+  font-size: 33px;
+  font-family: Deja vu sans;
